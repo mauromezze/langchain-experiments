@@ -16,3 +16,6 @@ openai
 duckduckgo-search
 pyowm
 pyllamacpp
+pdfminer.six
+unstructured==0.6.1
+chromadb
